@@ -83,6 +83,7 @@
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45" title="JavaScript"/>
 <img src="https://cdn.simpleicons.org/dart/0175C2" width="45" title="Dart"/>
 <br/><br/>
+
 **Frontend**
 <br/>
 <img src="https://cdn.simpleicons.org/react/61DAFB" width="45" title="React"/>
@@ -91,18 +92,18 @@
 <img src="https://cdn.simpleicons.org/redux/764ABC" width="45" title="Redux"/>
 <img src="https://cdn.simpleicons.org/threedotjs/ffffff" width="45" title="Three.js"/>
 <img src="https://cdn.simpleicons.org/html5/E34F26" width="45" title="HTML5"/>
-<img src="https://cdn.simpleicons.org/css3/1572B6" width="45" title="CSS3"/>
 <img src="https://cdn.simpleicons.org/sass/CC6699" width="45" title="Sass"/>
 <img src="https://cdn.simpleicons.org/vite/646CFF" width="45" title="Vite"/>
 <br/><br/>
+
 **Backend**
 <br/>
 <img src="https://cdn.simpleicons.org/nodedotjs/6DA55F" width="45" title="Node.js"/>
 <img src="https://cdn.simpleicons.org/express/ffffff" width="45" title="Express.js"/>
 <img src="https://cdn.simpleicons.org/fastapi/009688" width="45" title="FastAPI"/>
-<img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="45" title="JWT"/>
 <img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="45" title="Socket.io"/>
 <br/><br/>
+
 **Databases**
 <br/>
 <img src="https://cdn.simpleicons.org/mongodb/47A248" width="45" title="MongoDB"/>
@@ -112,9 +113,9 @@
 <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45" title="Supabase"/>
 <img src="https://cdn.simpleicons.org/firebase/DD2C00" width="45" title="Firebase"/>
 <br/><br/>
+
 **Cloud & DevOps**
 <br/>
-<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="45" title="AWS"/>
 <img src="https://cdn.simpleicons.org/docker/2496ED" width="45" title="Docker"/>
 <img src="https://cdn.simpleicons.org/vercel/ffffff" width="45" title="Vercel"/>
 <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="45" title="Netlify"/>
@@ -122,6 +123,7 @@
 <img src="https://cdn.simpleicons.org/git/F05032" width="45" title="Git"/>
 <img src="https://cdn.simpleicons.org/github/ffffff" width="45" title="GitHub"/>
 <br/><br/>
+
 **AI / ML**
 <br/>
 <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="45" title="PyTorch"/>
@@ -131,11 +133,11 @@
 <img src="https://cdn.simpleicons.org/numpy/013243" width="45" title="NumPy"/>
 <img src="https://cdn.simpleicons.org/anaconda/44A833" width="45" title="Anaconda"/>
 <br/><br/>
+
 **Design & Tools**
 <br/>
 <img src="https://cdn.simpleicons.org/figma/F24E1E" width="45" title="Figma"/>
 <img src="https://cdn.simpleicons.org/framer/ffffff" width="45" title="Framer"/>
-<img src="https://cdn.simpleicons.org/canva/00C4CC" width="45" title="Canva"/>
 <img src="https://cdn.simpleicons.org/blender/F5792A" width="45" title="Blender"/>
 <img src="https://cdn.simpleicons.org/postman/FF6C37" width="45" title="Postman"/>
 </div>
