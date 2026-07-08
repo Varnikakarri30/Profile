@@ -96,7 +96,10 @@
 
 <br><br>
 
-### Backend
+<h3>
+  <img src="https://api.iconify.design/lucide:code-xml.svg?color=%237C3AED" width="18"/>
+  Backend
+</h3>
 
 <img src="https://cdn.simpleicons.org/nodedotjs/6DA55F" width="45" title="Node.js"/>
 &nbsp;&nbsp;
@@ -108,7 +111,10 @@
 
 <br><br>
 
-### Cloud & DevOps
+<h3>
+  <img src="https://api.iconify.design/lucide:code-xml.svg?color=%237C3AED" width="18"/>
+  Cloud & DevOps
+</h3>
 
 <img src="https://cdn.simpleicons.org/docker/2496ED" width="45" title="Docker"/>
 &nbsp;&nbsp;
@@ -126,7 +132,12 @@
 
 <td align="center" width="50%">
 
-### Frontend
+
+<h3>
+  <img src="https://api.iconify.design/lucide:code-xml.svg?color=%237C3AED" width="18"/>
+  
+ 
+</h3>
 
 <img src="https://cdn.simpleicons.org/react/61DAFB" width="45" title="React"/>
 &nbsp;&nbsp;
