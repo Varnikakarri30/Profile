@@ -135,8 +135,7 @@
 
 <h3>
   <img src="https://api.iconify.design/lucide:code-xml.svg?color=%237C3AED" width="18"/>
-  
- 
+   Frontend
 </h3>
 
 <img src="https://cdn.simpleicons.org/react/61DAFB" width="45" title="React"/>
@@ -157,7 +156,10 @@
 
 <br><br>
 
-### Databases
+<h3>
+  <img src="https://api.iconify.design/lucide:code-xml.svg?color=%237C3AED" width="18"/>
+   Databases
+</h3>
 
 <img src="https://cdn.simpleicons.org/mongodb/47A248" width="45" title="MongoDB"/>
 &nbsp;&nbsp;
@@ -173,7 +175,11 @@
 
 <br><br>
 
-### AI / ML
+<h3>
+  <img src="https://api.iconify.design/lucide:code-xml.svg?color=%237C3AED" width="18"/>
+   AI & ML
+</h3>
+
 
 <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="45" title="PyTorch"/>
 &nbsp;&nbsp;
@@ -197,7 +203,11 @@
 
 <br>
 
-### Design & Tools
+<h3>
+  <img src="https://api.iconify.design/lucide:code-xml.svg?color=%237C3AED" width="18"/>
+   Design & Tools
+</h3>
+ 
 
 <img src="https://cdn.simpleicons.org/figma/F24E1E" width="45" title="Figma"/>
 &nbsp;&nbsp;
