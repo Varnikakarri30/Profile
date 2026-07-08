@@ -143,8 +143,6 @@
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/html5/E34F26" width="45" title="HTML5"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/sass/CC6699" width="45" title="Sass"/>
-&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/vite/646CFF" width="45" title="Vite"/>
 <br><br>
 <h3>
@@ -169,7 +167,6 @@
    AI & ML
 </h3>
 
-
 <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="45" title="PyTorch"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="45" title="TensorFlow"/>
@@ -189,15 +186,11 @@
 <tr>
 
 <td colspan="2" align="center">
-
 <br>
-
 <h3>
   <img src="https://api.iconify.design/lucide:code-xml.svg?color=%237C3AED" width="18"/>
    Design & Tools
 </h3>
- 
-
 <img src="https://cdn.simpleicons.org/figma/F24E1E" width="45" title="Figma"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/framer/ffffff" width="45" title="Framer"/>
