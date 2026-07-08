@@ -1,8 +1,11 @@
 <div align="center">
 
 <!-- GALAXY WAVE BANNER — upload galaxy-wave.svg to this repo root first, then this line will render it -->
-<img width="100%" src="https://raw.githubusercontent.com/Varnikakarri30/Profile/d611a55a8a30184aec939710e771fb4f1bb36579/galaxy-wave.svg" />
-
+<img
+  width="100%"
+  src="https://raw.githubusercontent.com/Varnikakarri30/Profile/d611a55a8a30184aec939710e771fb4f1bb36579/galaxy-wave.svg"
+  style="transform: rotate(180deg);"
+/>
 <h1>Varnika Karri</h1>
 <p><i>AI & Full-Stack Developer |  Engineer</i></p>
 
