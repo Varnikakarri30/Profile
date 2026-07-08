@@ -75,75 +75,110 @@
 <div align="center">
 
 **Languages**
+
 <br/>
 <img src="https://cdn.simpleicons.org/c/A8B9CC" width="45" title="C"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="45" title="C++"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="45" title="Java"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/python/3776AB" width="45" title="Python"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45" title="JavaScript"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/dart/0175C2" width="45" title="Dart"/>
 <br/><br/>
 
 **Frontend**
+
 <br/>
 <img src="https://cdn.simpleicons.org/react/61DAFB" width="45" title="React"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="45" title="Next.js"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/angular/DD0031" width="45" title="Angular"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/redux/764ABC" width="45" title="Redux"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/threedotjs/ffffff" width="45" title="Three.js"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/html5/E34F26" width="45" title="HTML5"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/sass/CC6699" width="45" title="Sass"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/vite/646CFF" width="45" title="Vite"/>
 <br/><br/>
 
 **Backend**
+
 <br/>
 <img src="https://cdn.simpleicons.org/nodedotjs/6DA55F" width="45" title="Node.js"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/express/ffffff" width="45" title="Express.js"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/fastapi/009688" width="45" title="FastAPI"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="45" title="Socket.io"/>
 <br/><br/>
 
 **Databases**
+
 <br/>
 <img src="https://cdn.simpleicons.org/mongodb/47A248" width="45" title="MongoDB"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="45" title="PostgreSQL"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/mysql/4479A1" width="45" title="MySQL"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/redis/FF4438" width="45" title="Redis"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45" title="Supabase"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/firebase/DD2C00" width="45" title="Firebase"/>
 <br/><br/>
 
 **Cloud & DevOps**
+
 <br/>
 <img src="https://cdn.simpleicons.org/docker/2496ED" width="45" title="Docker"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/vercel/ffffff" width="45" title="Vercel"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="45" title="Netlify"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/render/46E3B7" width="45" title="Render"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/git/F05032" width="45" title="Git"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/github/ffffff" width="45" title="GitHub"/>
 <br/><br/>
 
 **AI / ML**
+
 <br/>
 <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="45" title="PyTorch"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="45" title="TensorFlow"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/opencv/ffffff" width="45" title="OpenCV"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/pandas/150458" width="45" title="Pandas"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/numpy/013243" width="45" title="NumPy"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/anaconda/44A833" width="45" title="Anaconda"/>
 <br/><br/>
 
 **Design & Tools**
+
 <br/>
 <img src="https://cdn.simpleicons.org/figma/F24E1E" width="45" title="Figma"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/framer/ffffff" width="45" title="Framer"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/blender/F5792A" width="45" title="Blender"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/postman/FF6C37" width="45" title="Postman"/>
 </div>
 <br/>
