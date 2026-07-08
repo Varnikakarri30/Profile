@@ -248,7 +248,7 @@ Modern web application focused on clean design and smooth performance.
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/Varnikakarri30/Profile/d611a55a8a30184aec939710e771fb4f1bb36579/galaxy-wave.svg" />
+
 
 <!-- ============ CODING PROFILES ============ -->
 <h2 align="center">
