@@ -139,8 +139,6 @@
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/redux/764ABC" width="45" title="Redux"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/threedotjs/ffffff" width="45" title="Three.js"/>
-&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/html5/E34F26" width="45" title="HTML5"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/vite/646CFF" width="45" title="Vite"/>
