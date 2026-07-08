@@ -262,13 +262,6 @@ Modern web application focused on clean design and smooth performance.
 </div>
 
 
-<!-- ============ QUOTE ============ -->
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
-
-</div>
-
 <!-- ============ FOOTER ============ -->
 <div align="center">
 
