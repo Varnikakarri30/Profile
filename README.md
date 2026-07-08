@@ -239,13 +239,6 @@ Modern web application focused on clean design and smooth performance.
 
 <br/><br/>
 
-<!-- CONTRIBUTION SNAKE (requires GitHub Action: platane/snk) -->
-<img src="https://raw.githubusercontent.com/Varnikakarri30/Varnikakarri30/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Varnikakarri30&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
-
 </div>
 
 
