@@ -6,7 +6,7 @@
   src="https://raw.githubusercontent.com/Varnikakarri30/Varnikakarri30/c0d7a84234f362f52405709763a38619f12db5fd/galaxytop.svg"
   style="transform: rotate(180deg);"
 />
-<h1>Varnika Karri</h1>
+<h1>VARNIKA KARRI</h1>
 <p><i>AI & Full-Stack Developer |  Engineer</i></p>
 
 <!-- ANIMATED TYPING SVG -->
