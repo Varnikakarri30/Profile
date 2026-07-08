@@ -251,7 +251,7 @@ Modern web application focused on clean design and smooth performance.
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-1E1B4B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href=" https://leetcode.com/u/Varnika_karri/"><img src="https://img.shields.io/badge/LeetCode-1E1B4B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/HackerRank-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 <a href="https://github.com/Varnikakarri30"><img src="https://img.shields.io/badge/GitHub-0A0014?style=for-the-badge&logo=github&logoColor=white"/></a>
 <br/>
