@@ -75,7 +75,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Varnikakarri30/Varnikakarri30/main/image.png"
+    src="https://github.com/Varnikakarri30/Varnikakarri30/blob/main/image.png?raw=true"
     alt="Tech Stack"
     width="100%"
   />
