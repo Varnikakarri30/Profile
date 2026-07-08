@@ -153,7 +153,7 @@
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Varnikakarri30/Varnikakarri30/main/galaxy-wave.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Varnikakarri30/Profile/d611a55a8a30184aec939710e771fb4f1bb36579/galaxy-wave.svg" />
 
 <!-- ============ FEATURED PROJECTS ============ -->
 <h2 align="center">
