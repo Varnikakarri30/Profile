@@ -65,22 +65,24 @@
 
 <br/>
 
-
 <!-- ============ TECH STACK ============ -->
+
 <h2 align="center">
   <img src="https://api.iconify.design/lucide:code-2.svg?color=%234C1D95" width="22" height="22" valign="middle"/>
   &nbsp;Tech Stack
 </h2>
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
 
-**Languages**
+<td align="center" width="50%">
 
-<br/>
+### Languages
+
 <img src="https://cdn.simpleicons.org/c/A8B9CC" width="45" title="C"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="45" title="C++"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="45" title="Java"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/python/3776AB" width="45" title="Python"/>
@@ -88,11 +90,41 @@
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45" title="JavaScript"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/dart/0175C2" width="45" title="Dart"/>
-<br/><br/>
 
-**Frontend**
+<br><br>
 
-<br/>
+### Backend
+
+<img src="https://cdn.simpleicons.org/nodedotjs/6DA55F" width="45" title="Node.js"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/express/ffffff" width="45" title="Express.js"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/fastapi/009688" width="45" title="FastAPI"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="45" title="Socket.IO"/>
+
+<br><br>
+
+### Cloud & DevOps
+
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="45" title="Docker"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/vercel/ffffff" width="45" title="Vercel"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/netlify/00C7B7" width="45" title="Netlify"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/render/46E3B7" width="45" title="Render"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/F05032" width="45" title="Git"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/ffffff" width="45" title="GitHub"/>
+
+</td>
+
+<td align="center" width="50%">
+
+### Frontend
+
 <img src="https://cdn.simpleicons.org/react/61DAFB" width="45" title="React"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="45" title="Next.js"/>
@@ -108,23 +140,11 @@
 <img src="https://cdn.simpleicons.org/sass/CC6699" width="45" title="Sass"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/vite/646CFF" width="45" title="Vite"/>
-<br/><br/>
 
-**Backend**
+<br><br>
 
-<br/>
-<img src="https://cdn.simpleicons.org/nodedotjs/6DA55F" width="45" title="Node.js"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/express/ffffff" width="45" title="Express.js"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/fastapi/009688" width="45" title="FastAPI"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="45" title="Socket.io"/>
-<br/><br/>
+### Databases
 
-**Databases**
-
-<br/>
 <img src="https://cdn.simpleicons.org/mongodb/47A248" width="45" title="MongoDB"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="45" title="PostgreSQL"/>
@@ -136,27 +156,11 @@
 <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45" title="Supabase"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/firebase/DD2C00" width="45" title="Firebase"/>
-<br/><br/>
 
-**Cloud & DevOps**
+<br><br>
 
-<br/>
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="45" title="Docker"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/vercel/ffffff" width="45" title="Vercel"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/netlify/00C7B7" width="45" title="Netlify"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/render/46E3B7" width="45" title="Render"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/git/F05032" width="45" title="Git"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github/ffffff" width="45" title="GitHub"/>
-<br/><br/>
+### AI / ML
 
-**AI / ML**
-
-<br/>
 <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="45" title="PyTorch"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="45" title="TensorFlow"/>
@@ -168,11 +172,19 @@
 <img src="https://cdn.simpleicons.org/numpy/013243" width="45" title="NumPy"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/anaconda/44A833" width="45" title="Anaconda"/>
-<br/><br/>
 
-**Design & Tools**
+</td>
 
-<br/>
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+<br>
+
+### Design & Tools
+
 <img src="https://cdn.simpleicons.org/figma/F24E1E" width="45" title="Figma"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/framer/ffffff" width="45" title="Framer"/>
@@ -180,7 +192,13 @@
 <img src="https://cdn.simpleicons.org/blender/F5792A" width="45" title="Blender"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/postman/FF6C37" width="45" title="Postman"/>
-</div>
+
+</td>
+
+</tr>
+
+</table>
+
 <br/>
 <!-- ============ FEATURED PROJECTS ============ -->
 <h2 align="center">
