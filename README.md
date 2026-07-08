@@ -21,7 +21,7 @@
   <a href="https://github.com/Varnikakarri30"><img src="https://img.shields.io/badge/GitHub-0A0014?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<img width="100%" src="https://raw.githubusercontent.com/Varnikakarri30/Varnikakarri30/main/galaxy-wave.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Varnikakarri30/Profile/d611a55a8a30184aec939710e771fb4f1bb36579/galaxy-wave.svg" />
 
 </div>
 
@@ -62,7 +62,7 @@
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Varnikakarri30/Varnikakarri30/main/galaxy-wave.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Varnikakarri30/Profile/d611a55a8a30184aec939710e771fb4f1bb36579/galaxy-wave.svg" />
 
 <!-- ============ TECH STACK ============ -->
 <h2 align="center">
@@ -201,7 +201,7 @@ Modern web application focused on clean design and smooth performance.
 
 <p align="center"><i>Update the GitHub / Live Demo links above with your actual project URLs.</i></p>
 
-<img width="100%" src="https://raw.githubusercontent.com/Varnikakarri30/Varnikakarri30/main/galaxy-wave.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Varnikakarri30/Profile/d611a55a8a30184aec939710e771fb4f1bb36579/galaxy-wave.svg" />
 
 <!-- ============ ACHIEVEMENTS ============ -->
 <h2 align="center">
@@ -222,7 +222,7 @@ Modern web application focused on clean design and smooth performance.
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/Varnikakarri30/Varnikakarri30/main/galaxy-wave.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Varnikakarri30/Profile/d611a55a8a30184aec939710e771fb4f1bb36579/galaxy-wave.svg" />
 
 <!-- ============ GITHUB ANALYTICS ============ -->
 <h2 align="center">
@@ -251,7 +251,7 @@ Modern web application focused on clean design and smooth performance.
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/Varnikakarri30/Varnikakarri30/main/galaxy-wave.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Varnikakarri30/Profile/d611a55a8a30184aec939710e771fb4f1bb36579/galaxy-wave.svg" />
 
 <!-- ============ CODING PROFILES ============ -->
 <h2 align="center">
@@ -271,7 +271,7 @@ Modern web application focused on clean design and smooth performance.
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/Varnikakarri30/Varnikakarri30/main/galaxy-wave.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Varnikakarri30/Profile/d611a55a8a30184aec939710e771fb4f1bb36579/galaxy-wave.svg" />
 
 <!-- ============ QUOTE ============ -->
 <div align="center">
@@ -289,7 +289,7 @@ Modern web application focused on clean design and smooth performance.
 
 <i>Made with 💜 by Varnika Karri</i>
 
-<img width="100%" src="https://raw.githubusercontent.com/Varnikakarri30/Varnikakarri30/main/galaxy-wave.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Varnikakarri30/Profile/d611a55a8a30184aec939710e771fb4f1bb36579/galaxy-wave.svg" />
 
 </div>
-# Profile
+
