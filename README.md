@@ -76,7 +76,6 @@
 <tr>
 
 <td align="center" width="50%">
-
 <h3>
   <img src="https://api.iconify.design/lucide:code-xml.svg?color=%237C3AED" width="18"/>
   Languages
@@ -93,9 +92,7 @@
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45" title="JavaScript"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/dart/0175C2" width="45" title="Dart"/>
-
 <br><br>
-
 <h3>
   <img src="https://api.iconify.design/lucide:code-xml.svg?color=%237C3AED" width="18"/>
   Backend
@@ -108,9 +105,7 @@
 <img src="https://cdn.simpleicons.org/fastapi/009688" width="45" title="FastAPI"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="45" title="Socket.IO"/>
-
 <br><br>
-
 <h3>
   <img src="https://api.iconify.design/lucide:code-xml.svg?color=%237C3AED" width="18"/>
   Cloud & DevOps
@@ -131,8 +126,6 @@
 </td>
 
 <td align="center" width="50%">
-
-
 <h3>
   <img src="https://api.iconify.design/lucide:code-xml.svg?color=%237C3AED" width="18"/>
    Frontend
@@ -153,9 +146,7 @@
 <img src="https://cdn.simpleicons.org/sass/CC6699" width="45" title="Sass"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/vite/646CFF" width="45" title="Vite"/>
-
 <br><br>
-
 <h3>
   <img src="https://api.iconify.design/lucide:code-xml.svg?color=%237C3AED" width="18"/>
    Databases
@@ -172,9 +163,7 @@
 <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45" title="Supabase"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/firebase/DD2C00" width="45" title="Firebase"/>
-
 <br><br>
-
 <h3>
   <img src="https://api.iconify.design/lucide:code-xml.svg?color=%237C3AED" width="18"/>
    AI & ML
