@@ -80,7 +80,7 @@
 <img src="https://cdn.simpleicons.org/c/A8B9CC" width="45" title="C"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="45" title="C++"/>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="45" title="Java"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/python/3776AB" width="45" title="Python"/>
