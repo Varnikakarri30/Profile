@@ -77,7 +77,10 @@
 
 <td align="center" width="50%">
 
-### Languages
+<h3>
+  <img src="https://api.iconify.design/lucide:code-xml.svg?color=%237C3AED" width="18"/>
+  Languages
+</h3>
 
 <img src="https://cdn.simpleicons.org/c/A8B9CC" width="45" title="C"/>
 &nbsp;&nbsp;
