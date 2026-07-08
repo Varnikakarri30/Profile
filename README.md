@@ -268,10 +268,11 @@ Modern web application focused on clean design and smooth performance.
 <img src="https://komarev.com/ghpvc/?username=Varnikakarri30&label=Profile%20Views&color=4C1D95&style=for-the-badge" />
 
 <br/><br/>
+<img width="100%" src="https://raw.githubusercontent.com/Varnikakarri30/Profile/d611a55a8a30184aec939710e771fb4f1bb36579/galaxy-wave.svg" />
+
 
 <i>Made with 💜 by Varnika Karri</i>
 
-<img width="100%" src="https://raw.githubusercontent.com/Varnikakarri30/Profile/d611a55a8a30184aec939710e771fb4f1bb36579/galaxy-wave.svg" />
 
 </div>
 
