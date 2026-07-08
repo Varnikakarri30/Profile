@@ -15,7 +15,7 @@
 
 <!-- SOCIAL LINKS -->
 <p>
-  <a href="https://linkedin.com/in/varnika-karri-094067291"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/varnika-karri-094067291/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/Varnika_karri"><img src="https://img.shields.io/badge/X-1E1B4B?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:varnikakarri30@gmail.com"><img src="https://img.shields.io/badge/Email-3B0764?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Varnikakarri30"><img src="https://img.shields.io/badge/GitHub-0A0014?style=for-the-badge&logo=github&logoColor=white" /></a>
