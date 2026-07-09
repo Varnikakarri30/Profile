@@ -228,7 +228,7 @@ AI-assisted exam preparation tool with adaptive question generation.
 `Python` `FastAPI` `AI/ML`
 
 <a href="#"><img src="https://img.shields.io/badge/GitHub-0A0014?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-3B0764?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://examready006.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-3B0764?style=flat-square&logo=vercel&logoColor=white"/></a>
 
 </td>
 <td width="33%" valign="top">
@@ -244,8 +244,6 @@ Modern web application focused on clean design and smooth performance.
 </td>
 </tr>
 </table>
-
-<p align="center"><i>Update the GitHub / Live Demo links above with your actual project URLs.</i></p>
 
 <img width="100%" src="https://raw.githubusercontent.com/Varnikakarri30/Profile/d611a55a8a30184aec939710e771fb4f1bb36579/galaxy-wave.svg" />
 
