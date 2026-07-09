@@ -216,7 +216,7 @@ Full-stack platform showcasing scalable architecture and modern UI/UX patterns.
 
 `React` `Node.js` `MongoDB`
 
-<a href="#"><img src="https://img.shields.io/badge/GitHub-0A0014?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Varnikakarri30/NEXUS"><img src="https://img.shields.io/badge/GitHub-0A0014?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-3B0764?style=flat-square&logo=vercel&logoColor=white"/></a>
 
 </td>
