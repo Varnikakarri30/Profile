@@ -91,7 +91,6 @@
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45" title="JavaScript"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/dart/0175C2" width="45" title="Dart"/>
 <br><br>
 <h3>
   <img src="https://api.iconify.design/lucide:code-xml.svg?color=%237C3AED" width="18"/>
@@ -132,8 +131,6 @@
 </h3>
 
 <img src="https://cdn.simpleicons.org/react/61DAFB" width="45" title="React"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="45" title="Next.js"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/angular/DD0031" width="45" title="Angular"/>
 &nbsp;&nbsp;
