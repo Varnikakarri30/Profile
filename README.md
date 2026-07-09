@@ -227,7 +227,7 @@ AI-assisted exam preparation tool with adaptive question generation.
 
 `Python` `FastAPI` `AI/ML`
 
-<a href="#"><img src="https://img.shields.io/badge/GitHub-0A0014?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Varnikakarri30/Exam-Help"><img src="https://img.shields.io/badge/GitHub-0A0014?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://examready006.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-3B0764?style=flat-square&logo=vercel&logoColor=white"/></a>
 
 </td>
@@ -238,8 +238,8 @@ Modern web application focused on clean design and smooth performance.
 
 `React` `Express` `PostgreSQL`
 
-<a href="#"><img src="https://img.shields.io/badge/GitHub-0A0014?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-3B0764?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Varnikakarri30/Lumix-Website"><img src="https://img.shields.io/badge/GitHub-0A0014?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://lumix-website-gamma.vercel.app/lumix-landing%202/index.html"><img src="https://img.shields.io/badge/Live_Demo-3B0764?style=flat-square&logo=vercel&logoColor=white"/></a>
 
 </td>
 </tr>
