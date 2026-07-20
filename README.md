@@ -112,13 +112,9 @@
 
 <img src="https://cdn.simpleicons.org/docker/2496ED" width="45" title="Docker"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/vercel/ffffff" width="45" title="Vercel"/>
-&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="45" title="Netlify"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/render/46E3B7" width="45" title="Render"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/git/F05032" width="45" title="Git"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/github/ffffff" width="45" title="GitHub"/>
 
@@ -165,8 +161,6 @@
 <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="45" title="PyTorch"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="45" title="TensorFlow"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/opencv/ffffff" width="45" title="OpenCV"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/pandas/150458" width="45" title="Pandas"/>
 &nbsp;&nbsp;
